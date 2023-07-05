@@ -1,2 +1,2 @@
 #!/bin/bash
-mw  /betty  /tmp/my_first_directory
+mw  tmp/betty /tmp/my_first_directory
